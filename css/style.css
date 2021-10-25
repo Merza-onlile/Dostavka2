@@ -225,36 +225,20 @@ body {
     margin-bottom: 25px;
 }
 .sweet-basket {
-     /* display: inline-block; 
-    text-align: center;
-    justify-content: space-between; */
-    /* float: left; */
     width: 570px;
-
     z-index: -1;
-    background: url('../img/sweet-basket.png') center center/cover no-repeat;
-  
-    
-    /* margin-right: 25px; */
+    background: url('../img/sweet-basket.png') center center/cover no-repeat; 
 }
 .minimum {
-    /* float: right; */
-    /* display: inline-block;
-    text-align: center;
-    justify-content: space-between; */
     width: 570px;
-
     z-index: -1;
-    background: url('../img/minimum.png') center center/cover no-repeat;
-    /* margin-left: 25px; */
-   
+    background: url('../img/minimum.png') center center/cover no-repeat;   
 }  
 .deliver-week {
     padding: 100px 0;
 }
 .delivery-cards {
     display: flex; 
-    /* justify-content: space-between;  */
     flex-wrap: wrap;
     margin: -15px;
     margin-bottom: 90px;
@@ -348,13 +332,10 @@ body {
     color: #f37321;
 }
 .tabs-card-content {
-    /* display: flex; */
-    /* padding: -15px; */
     padding: 23px;  
 }
 .tabs-card {     
     display: inline-block;
-    /* flex-wrap: wrap    ; */
     margin: 10px;
     max-width: 270px;
     border-radius: 20px;
@@ -406,14 +387,13 @@ body {
     font-style: 500;
     font-size: 16px;
     line-height: 19px;
-    /* width: 125px;
-    height: 50px; */
     padding: 15px 22px;
 }
 .button-center {
     display: block;
     margin: auto;
     margin-bottom: 60px;
+    margin-top: 50px;
     width: 315px;
 }
 .benefits {
@@ -431,7 +411,6 @@ body {
 }
 .benefit-cards {
     display: flex;
-    /* margin: -10px; */
     margin: 5px;
 }
 .benefit-card {
